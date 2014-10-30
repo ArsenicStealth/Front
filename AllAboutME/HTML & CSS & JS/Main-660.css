@@ -42,6 +42,10 @@ height: 100px;
   left: 1400px;
 }
 
+header{
+ min-width: 660px; 
+}
+
 h3{
   width: 155px;
   color: white;
@@ -110,12 +114,9 @@ h3{
 }
 
 body{
- min-width: 661px; 
+ min-width: 660px; 
 }
 
-header{
- min-width: 661px; 
-}
 
 
 a:visited{

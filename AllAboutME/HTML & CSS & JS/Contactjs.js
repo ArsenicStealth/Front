@@ -1,14 +1,14 @@
 var slideimages = new Array()
 slideimages[0] = new Image()
-slideimages[0].src = "/Images/Tiger.jpg"
+slideimages[0].src = "Images/Tiger.jpg"
 slideimages[1] = new Image()
-slideimages[1].src = "/Images/Cards.jpg"
+slideimages[1].src = "Images/Cards.jpg"
 slideimages[2] = new Image()
-slideimages[2].src = "/Images/idk.jpg"
+slideimages[2].src = "Images/idk.jpg"
 slideimages[3] = new Image()
-slideimages[3].src = "/Images/Reaper.jpg"
+slideimages[3].src = "Images/Reaper.jpg"
 slideimages[4] = new Image()
-slideimages[4].src = "/Images/Wolf.jpg"
+slideimages[4].src = "Images/Wolf.jpg"
 var step=0
 
 function slideit(){

@@ -1,10 +1,10 @@
 var slideimages = new Array()
 slideimages[1] = new Image()
-slideimages[1].src = "/Images/C.jpg"
+slideimages[1].src = "Images/C.jpg"
 slideimages[2] = new Image()
-slideimages[2].src = "/Images/java.jpg"
+slideimages[2].src = "Images/java.jpg"
 slideimages[0] = new Image()
-slideimages[0].src = "/Images/Capture.jpg"
+slideimages[0].src = "Images/Capture.jpg"
 
 var step=0
 
